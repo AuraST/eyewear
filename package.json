@@ -1,0 +1,25 @@
+{
+  "name": "eyewear_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AuraST/eyewear.git"
+  },
+  "author": "auraST",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AuraST/eyewear/issues"
+  },
+  "homepage": "https://github.com/AuraST/eyewear#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0"
+  }
+}
